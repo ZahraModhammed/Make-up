@@ -2,7 +2,7 @@
 
 - how to run the project with scss:
 sass --watch ./sass/style.scss ./css/style.css
-before this command you sould download sass across this link:
+before this command you should download sass across this link:
 https://sass-lang.com/
 
 - the things I uesd on the project
